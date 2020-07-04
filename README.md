@@ -63,3 +63,11 @@ Erlangen, Germany, 2013.
 ## Comments
   * Any comments for the codes are always welcome.
 
+
+附加：
+1. 需要python3
+2. 安装pytorch：pip3 install torch==1.5.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+3. 没有gpu，则使用torch.load(model_path, map_location='cpu')
+4. 安装yum install libsndfile
+5. 安装指定版本pip3 install numba==0.48.0
+6. SoundFile not support mp3
