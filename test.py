@@ -6,6 +6,7 @@ from btc_model import *
 from utils.mir_eval_modules import audio_file_to_features, idx2chord, idx2voca_chord, get_audio_paths
 import argparse
 import warnings
+from utils import transform_mp3_to_wav
 
 warnings.filterwarnings('ignore')
 logger.logging_verbosity(1)
@@ -48,6 +49,9 @@ audio_paths = get_audio_paths(args.audio_dir)
 # Chord recognition and save lab file
 for i, audio_path in enumerate(audio_paths):
     logger.info("======== %d of %d in progress ========" % (i + 1, len(audio_paths)))
+    logger.info("======== filename is %s ========" % audio_path)
+    # mp3 to wav
+    audio_path = transform_mp3_to_wav.mp3_2_wav(audio_path)
     # Load mp3
     feature, feature_per_second, song_length_second = audio_file_to_features(audio_path, config)
     logger.info("audio file loaded and feature computation success : %s" % audio_path)
