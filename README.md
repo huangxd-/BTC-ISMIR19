@@ -72,4 +72,5 @@ Erlangen, Germany, 2013.
 5. 安装指定版本pip3 install numba==0.48.0
 6. SoundFile not support mp3
 7. yum install lame; lame --decode <输入_mp3文件> <输出_wav文件>
-8. python3 test.py --audio_dir audio_folder --save_dir save_folder --voca False
+8. python3 test.py --audio_dir audio_folder --save_dir save_folder --voca True
+9. 有汉字需转成拼音 pip3 install pinyin; pinyin.get("你好", format="strip")
