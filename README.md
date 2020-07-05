@@ -74,3 +74,11 @@ Erlangen, Germany, 2013.
 7. yum install lame; lame --decode <输入_mp3文件> <输出_wav文件>
 8. python3 test.py --audio_dir audio_folder --save_dir save_folder --voca True
 9. 有汉字需转成拼音 pip3 install pinyin; pinyin.get("你好", format="strip")
+
+参考：
+1. https://www.npmjs.com/package/piano-chart
+2. https://www.npmjs.com/package/chord-fingering#Data
+3. https://www.npmjs.com/package/chord-charter
+4. https://www.npmjs.com/package/chord-dictionary
+5. https://www.npmjs.com/package/@tombatossals/chords-db
+6. https://www.npmjs.com/package/markdown-it-chords
