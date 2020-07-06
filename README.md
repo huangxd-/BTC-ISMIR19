@@ -82,3 +82,4 @@ Erlangen, Germany, 2013.
 4. https://www.npmjs.com/package/chord-dictionary
 5. https://www.npmjs.com/package/@tombatossals/chords-db
 6. https://www.npmjs.com/package/markdown-it-chords
+7. https://www.npmjs.com/package/vexflow
