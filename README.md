@@ -83,3 +83,34 @@ Erlangen, Germany, 2013.
 5. https://www.npmjs.com/package/@tombatossals/chords-db
 6. https://www.npmjs.com/package/markdown-it-chords
 7. https://www.npmjs.com/package/vexflow
+https://www.npmjs.com/package/chord-illustrator
+https://www.npmjs.com/package/tonal-chord
+https://www.npmjs.com/package/chorus
+https://www.npmjs.com/package/lib-scale-chord-convert
+https://www.npmjs.com/package/svguitar
+https://www.npmjs.com/package/jazzband
+https://www.npmjs.com/package/chordy-svg
+https://www.npmjs.com/package/react-svg-chord-progressions
+https://www.npmjs.com/package/vexchords
+https://www.npmjs.com/package/chordsheetjs
+https://www.npmjs.com/package/chordictionary
+https://www.npmjs.com/package/@midiate/midiate
+https://www.npmjs.com/package/octavian
+https://www.npmjs.com/package/musictheoryjs
+https://www.npmjs.com/package/chord-sketch-ui
+https://www.npmjs.com/package/ember-cli-guitar-chords
+https://www.npmjs.com/package/soundbank-multi
+https://www.npmjs.com/package/teoria
+https://www.npmjs.com/package/react-ukelele
+https://www.npmjs.com/package/@lyre/fretboard
+https://www.npmjs.com/package/autocomposer-js
+https://www.npmjs.com/package/react-chord-generator
+https://www.npmjs.com/package/vc-chord-diagram
+https://www.npmjs.com/package/tjn-react-guitar-chord
+https://www.npmjs.com/package/ukulele-chord
+https://www.npmjs.com/package/chord.js
+https://www.npmjs.com/package/scorejs
+https://www.npmjs.com/package/chordplayer
+https://www.npmjs.com/package/chordjs
+https://www.npmjs.com/package/ireal-renderer
+https://www.npmjs.com/package/sharp11-web-audio
