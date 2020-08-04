@@ -83,34 +83,34 @@ Erlangen, Germany, 2013.
 5. https://www.npmjs.com/package/@tombatossals/chords-db
 6. https://www.npmjs.com/package/markdown-it-chords
 7. https://www.npmjs.com/package/vexflow
-https://www.npmjs.com/package/chord-illustrator
-https://www.npmjs.com/package/tonal-chord
-https://www.npmjs.com/package/chorus
-https://www.npmjs.com/package/lib-scale-chord-convert
-https://www.npmjs.com/package/svguitar
-https://www.npmjs.com/package/jazzband
-https://www.npmjs.com/package/chordy-svg
-https://www.npmjs.com/package/react-svg-chord-progressions
-https://www.npmjs.com/package/vexchords
-https://www.npmjs.com/package/chordsheetjs
-https://www.npmjs.com/package/chordictionary
-https://www.npmjs.com/package/@midiate/midiate
-https://www.npmjs.com/package/octavian
-https://www.npmjs.com/package/musictheoryjs
-https://www.npmjs.com/package/chord-sketch-ui
-https://www.npmjs.com/package/ember-cli-guitar-chords
-https://www.npmjs.com/package/soundbank-multi
-https://www.npmjs.com/package/teoria
-https://www.npmjs.com/package/react-ukelele
-https://www.npmjs.com/package/@lyre/fretboard
-https://www.npmjs.com/package/autocomposer-js
-https://www.npmjs.com/package/react-chord-generator
-https://www.npmjs.com/package/vc-chord-diagram
-https://www.npmjs.com/package/tjn-react-guitar-chord
-https://www.npmjs.com/package/ukulele-chord
-https://www.npmjs.com/package/chord.js
-https://www.npmjs.com/package/scorejs
-https://www.npmjs.com/package/chordplayer
-https://www.npmjs.com/package/chordjs
-https://www.npmjs.com/package/ireal-renderer
-https://www.npmjs.com/package/sharp11-web-audio
+8. https://www.npmjs.com/package/chord-illustrator
+9. https://www.npmjs.com/package/tonal-chord
+10. https://www.npmjs.com/package/chorus
+11. https://www.npmjs.com/package/lib-scale-chord-convert
+12. https://www.npmjs.com/package/svguitar
+13. https://www.npmjs.com/package/jazzband
+14. https://www.npmjs.com/package/chordy-svg
+15. https://www.npmjs.com/package/react-svg-chord-progressions
+16. https://www.npmjs.com/package/vexchords
+17. https://www.npmjs.com/package/chordsheetjs
+18. https://www.npmjs.com/package/chordictionary
+19. https://www.npmjs.com/package/@midiate/midiate
+20. https://www.npmjs.com/package/octavian
+21. https://www.npmjs.com/package/musictheoryjs
+22. https://www.npmjs.com/package/chord-sketch-ui
+23. https://www.npmjs.com/package/ember-cli-guitar-chords
+24. https://www.npmjs.com/package/soundbank-multi
+25. https://www.npmjs.com/package/teoria
+26. https://www.npmjs.com/package/react-ukelele
+27. https://www.npmjs.com/package/@lyre/fretboard
+28. https://www.npmjs.com/package/autocomposer-js
+29. https://www.npmjs.com/package/react-chord-generator
+30. https://www.npmjs.com/package/vc-chord-diagram
+31. https://www.npmjs.com/package/tjn-react-guitar-chord
+32. https://www.npmjs.com/package/ukulele-chord
+33. https://www.npmjs.com/package/chord.js
+34. https://www.npmjs.com/package/scorejs
+35. https://www.npmjs.com/package/chordplayer
+36. https://www.npmjs.com/package/chordjs
+37. https://www.npmjs.com/package/ireal-renderer
+38. https://www.npmjs.com/package/sharp11-web-audio
