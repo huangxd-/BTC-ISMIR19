@@ -114,3 +114,5 @@ Erlangen, Germany, 2013.
 36. https://www.npmjs.com/package/chordjs
 37. https://www.npmjs.com/package/ireal-renderer
 38. https://www.npmjs.com/package/sharp11-web-audio
+39. https://www.npmjs.com/package/yama-stream
+40. https://www.npmjs.com/package/create-music-stream
