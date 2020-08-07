@@ -118,3 +118,4 @@ Erlangen, Germany, 2013.
 40. https://www.npmjs.com/package/create-music-stream
 
 41. http://doc.gecimi.com/en/latest/#
+42. https://cloud.tencent.com/developer/article/1543945
