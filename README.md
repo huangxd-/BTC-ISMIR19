@@ -120,3 +120,4 @@ Erlangen, Germany, 2013.
 41. http://doc.gecimi.com/en/latest/#
 42. https://cloud.tencent.com/developer/article/1543945
 43. https://api.hzhihe.com/QqMusic
+44. https://github.com/JooZh/music-api-for-qq
