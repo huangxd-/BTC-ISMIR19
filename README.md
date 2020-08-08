@@ -80,7 +80,7 @@ Erlangen, Germany, 2013.
 2. https://www.npmjs.com/package/chord-fingering#Data
 3. https://www.npmjs.com/package/chord-charter
 4. https://www.npmjs.com/package/chord-dictionary
-5. https://www.npmjs.com/package/@tombatossals/chords-db
+5. https://www.npmjs.com/package/@tombatossals/chords-db 吉他/乌克丽丽和弦图
 6. https://www.npmjs.com/package/markdown-it-chords
 7. https://www.npmjs.com/package/vexflow
 8. https://www.npmjs.com/package/chord-illustrator
@@ -121,3 +121,6 @@ Erlangen, Germany, 2013.
 42. https://cloud.tencent.com/developer/article/1543945
 43. https://api.hzhihe.com/QqMusic
 44. https://github.com/JooZh/music-api-for-qq √ 【自搭api】
+
+45. https://tombatossals.github.io/react-chords/guitar
+46. https://www.pianochord.org/
