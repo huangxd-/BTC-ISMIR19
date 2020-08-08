@@ -109,9 +109,9 @@ Erlangen, Germany, 2013.
 31. https://www.npmjs.com/package/tjn-react-guitar-chord
 32. https://www.npmjs.com/package/ukulele-chord
 33. https://www.npmjs.com/package/chord.js
-34. https://www.npmjs.com/package/scorejs
-35. https://www.npmjs.com/package/chordplayer
-36. https://www.npmjs.com/package/chordjs
+34. https://www.npmjs.com/package/scorejs 和弦播放
+35. https://www.npmjs.com/package/chordplayer 和弦播放
+36. https://www.npmjs.com/package/chordjs 和弦移调
 37. https://www.npmjs.com/package/ireal-renderer
 38. https://www.npmjs.com/package/sharp11-web-audio
 39. https://www.npmjs.com/package/yama-stream
