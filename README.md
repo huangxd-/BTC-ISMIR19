@@ -93,9 +93,9 @@ Erlangen, Germany, 2013.
 15. https://www.npmjs.com/package/react-svg-chord-progressions
 16. https://www.npmjs.com/package/vexchords
 17. https://www.npmjs.com/package/chordsheetjs
-18. https://www.npmjs.com/package/chordictionary
+18. https://www.npmjs.com/package/chordictionary 和弦转换 layout展示
 19. https://www.npmjs.com/package/@midiate/midiate
-20. https://www.npmjs.com/package/octavian
+20. https://www.npmjs.com/package/octavian notes and their frequencies.
 21. https://www.npmjs.com/package/musictheoryjs
 22. https://www.npmjs.com/package/chord-sketch-ui
 23. https://www.npmjs.com/package/ember-cli-guitar-chords
