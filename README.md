@@ -92,7 +92,7 @@ Erlangen, Germany, 2013.
 14. https://www.npmjs.com/package/chordy-svg
 15. https://www.npmjs.com/package/react-svg-chord-progressions
 16. https://www.npmjs.com/package/vexchords
-17. https://www.npmjs.com/package/chordsheetjs
+17. https://www.npmjs.com/package/chordsheetjs 和弦谱生成
 18. https://www.npmjs.com/package/chordictionary 和弦转换 layout展示
 19. https://www.npmjs.com/package/@midiate/midiate
 20. https://www.npmjs.com/package/octavian notes and their frequencies.
